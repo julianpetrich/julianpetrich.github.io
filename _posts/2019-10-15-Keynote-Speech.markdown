@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2019-10-15
-img: safe.png
+img: keynote.png
 alt: image-alt
 project-date: October 2019
 client: Insurance Fair

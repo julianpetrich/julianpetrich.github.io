@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2020-03-01
-img: circus.png
+img: leadquality.png
 alt: image-alt
 project-date: February 2020
 client: Automaker
